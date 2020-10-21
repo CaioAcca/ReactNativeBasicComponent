@@ -18,7 +18,7 @@ const App = () => {
   return (
     <>
       <View style={styles.container}>
-{/*         <ComponenteFunction texto="Componente baseado em função com export default"/> */}
+        <ComponenteFunction texto="Componente baseado em função com export default"/>
         <ComponenteFuncaoSemDefault texto="Componente baseado em função sem export default"/>
         <ComponenteClasse texto="Componente baseado em classe"/>
         <ComponenteHooks texto="Componente funcao com Hooks"/>
